@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width:50%;
+  margin:auto;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: rgb(146, 173, 73);
+  border-radius: 0.5em;
+}
+button {
+  margin: 20px;
+  background-color: rgb(80, 141, 167);
+  color: aliceblue;
+  border-radius: 0.2em;
+}
+input {
+  margin: 10px;
+}
